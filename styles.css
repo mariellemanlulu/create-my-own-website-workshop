@@ -12,7 +12,8 @@ body {
 }
 
 .image_description_1 {
-  width: auto;
+  width: 100px;
+  height: 100px;
   float: right;
 }
 
