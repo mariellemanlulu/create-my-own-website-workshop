@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+}
+
+.about_me_1 {
+  width: 60%;
+  height: 300px;
+}
+.description_1 {
+  width: 300px;
+  float: left;
+}
+
+.image_description_1 {
+  width: auto;
+  float: right;
+}
+
+.about_me_2 {
+  width: 60%;
+  height: 300px;
+}
+.description_2 {
+  width: 300px;
+  float: right;
+}
+
+.image_description_2 {
+  width: auto;
+  float: left;
+}
