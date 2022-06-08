@@ -29,3 +29,18 @@ body {
   width: auto;
   float: left;
 }
+
+.my_lists {
+  width: 60%;
+  height: 300px;
+}
+
+.food_list {
+  width: 300px;
+  float: left;
+}
+
+.place_list {
+  width: auto;
+  float: right;
+}
